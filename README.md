@@ -13,5 +13,3 @@ My name is Xuan Hung.<br>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Fehung-12&repo=quanlysinhvien&theme=radical" />
 </a>    
-
-
