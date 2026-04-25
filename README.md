@@ -3,6 +3,7 @@ My name is Xuan Hung.<br>
 ## 📫 How to reach me: 
 
 
+![HUNG github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fehung-12&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/Fehung-12/duan">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
